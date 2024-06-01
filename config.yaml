@@ -1,5 +1,5 @@
 selary:
-  train_dataset: D:\study\AI\PredictCreditScoreinit\datasets\train.csv
-  test_dataset: D:\study\AI\PredictCreditScoreinit\datasets\test.csv
-  train_refactor: D:\study\AI\PredictCreditScoreinit\datasets\train_3.csv
-  test_refactor: D:\study\AI\PredictCreditScoreinit\datasets\test_3.csv
+  train_dataset: C:\Users\snw12\Desktop\Scince_shit\AI\PredictCreditScoreinit\datasets\train.csv
+  test_dataset: C:\Users\snw12\Desktop\Scince_shit\AI\PredictCreditScoreinit\datasets\test.csv
+  train_refactor: C:\Users\snw12\Desktop\Scince_shit\AI\PredictCreditScoreinit\datasets\train_3.csv
+  test_refactor: C:\Users\snw12\Desktop\Scince_shit\AI\PredictCreditScoreinit\datasets\test_3.csv
